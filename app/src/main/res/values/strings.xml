@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">D1041161058_tugasToastActiv</string>
+    <string name="button_main">Lanjut</string>
+    <string name="editText_main">Masukkan Nama Anda</string>
+    <string name="button_countUp">Count Up</string>
+    <string name="button_countDown">Count Down</string>
+    <string name="count_initial">58</string>
+</resources>
